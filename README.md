@@ -17,8 +17,3 @@ Because one day, a mysterious figure named **Joey** whispered:
 
 This is our offering.
 
-## How to Run It
-
-```bash
-pip install fastapi uvicorn
-uvicorn teapot_api:app --reload
